@@ -24,7 +24,6 @@ export default function SocialMedia() {
             <MediaItem icon={IconTwitter} title="Clique aqui e acesse o nosso Twitter" url="https://twitter.com/CMestico"/>
             <MediaItem icon={IconFace} title="Clique aqui e acesse o nosso Facebook!" url="https://www.facebook.com/caboclo.mestico.9"/>
             <MediaItem icon={IconWpp} title="Clique aqui e nos mande uma mensagem no Whatsapp!" url="https://api.whatsapp.com/send?phone=5581998969399&text=Ol%C3%A1%20vim%20atrav%C3%A9s%20do%20site%20do%20Caboclo%20Mesti%C3%A7o..."/>
-            
         </div>
     )
 }
