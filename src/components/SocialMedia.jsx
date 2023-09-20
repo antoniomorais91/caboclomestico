@@ -8,9 +8,9 @@ export default function SocialMedia() {
                 grid grid-cols-11 gap-2 py-4 h-16
                 justify-items-center text-[#f3f3f3]
                 lg:grid-cols-11 lg:h-16
-                md:grid-cols-6 md:grid-rows-2 md:h-28 md:py-2
+                md:grid-cols-11 md:h-20 md:py-2
                 sm:grid-cols-6 sm:grid-rows-2 sm:h-32 sm:py-0
-                xsm:grid-cols-3 xsm:grid-rows-3 xsm:h-48 
+                xsm:grid-cols-6 xsm:grid-rows-2 xsm:h-48 xsm:px-6 
             `}
         >
             <MediaItem icon={IconYou} title="Clique aqui e acesse o nosso Canal do Youtube!" url="https://www.youtube.com/@CabocloMestico"/>

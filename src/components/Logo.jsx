@@ -8,7 +8,7 @@ export default function Logo() {
         <div
             className={`
                 flex items-center justify-center p-2
-                lg:w-fit md:w-fit sm:w-fit xsm:w-px xsm:p-0
+                lg:w-fit md:px-6 sm:px-6 xsm:px-8
             `}
         >
             <Link href='/'>

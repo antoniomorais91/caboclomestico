@@ -13,7 +13,7 @@ export default function MediaItem(props: PropsMediaItem) {
                 target="_blank"
                 title={props.title}
                 className={`
-                p-1 m-1 mx-4 duration-300   
+                p-1 m-1 mx-4 duration-300 
                 hover:scale-125 hover:text-[#04C4D9]
             `}>
                 {props.icon}

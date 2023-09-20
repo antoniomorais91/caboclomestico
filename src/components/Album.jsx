@@ -5,8 +5,8 @@ export default function Album() {
     return (
         <div
             className={`
-                flex items-center justify-center p-2
-                lg:w-fit md:w-[620px] sm:w-[460px] xsm:w-[280px] xsm:p-1
+                flex items-center justify-center shadow-2xl shadow-black
+                lg:w-fit md:mx-6 sm:mx-6 xsm:mx-8
                 transition-transform duration-300
                 hover:cursor-pointer hover:scale-105
             `}
