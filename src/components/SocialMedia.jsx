@@ -1,4 +1,4 @@
-import { IconFace, IconInsta, IconWpp, IconYou, IconSpot, IconSound, IconDeezer, IconTik, IconPint, IconTwitter } from "@/icons/"
+import { IconFace, IconInsta, IconWpp, IconYou, IconSpot, IconSound, IconDeezer, IconTik, IconPint, IconTwitter } from "@/icons/Index"
 import MediaItem from '@/components/MediaItem'
 
 export default function SocialMedia() {
