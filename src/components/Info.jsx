@@ -8,18 +8,22 @@ export default function Info() {
         >
             <div
                 className={`
-                    py-4 px-10 items-center justify-center duration-300
+                    py-4 px-10 items-center justify-center
                     md:py-8 sm:py-8
-                    hover:scale-110 hover:text-[#04C4D9]
                 `}
             >
                 <h1
                     className={`
-                        lg:text-3xl md:text-3xl sm:text-2xl xsm:text-xl    
+                        lg:text-3xl md:text-3xl sm:text-2xl xsm:text-xl
+                        duration-300 hover:scale-110    
                     `}
                 >
                     <a
                         href=""
+                        className="hover:text-[#04C4D9]"
+                        data-bs-toggle="offcanvas"
+                        data-bs-target="#Letras"
+                        aria-controls="letrasMenu"
                     >
                         LETRAS
                     </a>
@@ -27,18 +31,22 @@ export default function Info() {
             </div>
             <div
                 className={`
-                    py-4 px-10 items-center justify-center duration-300
+                    py-4 px-10 items-center justify-center
                     md:py-8 sm:py-8
-                    hover:scale-110 hover:text-[#04C4D9]
                 `}
             >
                 <h1
                     className={`
-                        lg:text-3xl md:text-3xl sm:text-2xl xsm:text-xl    
+                        lg:text-3xl md:text-3xl sm:text-2xl xsm:text-xl
+                        duration-300 hover:scale-110    
                     `}
                 >
                     <a
                         href=""
+                        className="hover:text-[#04C4D9]"
+                        data-bs-toggle="offcanvas"
+                        data-bs-target="#FichaTecnica"
+                        aria-controls="letrasMenu"
                     >
                         FICHA TÉCNICA
                     </a>

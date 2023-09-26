@@ -7,7 +7,7 @@ export default function Document() {
       <Head>
         <link
           rel="icon"
-          href="/caboclo-ico.png"
+          href="/icon?<generated>"
           type="image/<generated>" />
       </Head>
       <body>

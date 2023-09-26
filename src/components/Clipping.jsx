@@ -8,18 +8,19 @@ export default function Clipping() {
         >
             <div
                 className={`
-                    py-4 px-10 items-center justify-center duration-300
+                    py-4 px-10 items-center justify-center
                     md:py-8 sm:py-8
-                    hover:scale-110 hover:text-[#04C4D9]
                 `}
             >
                 <h1
                     className={`
-                        lg:text-3xl md:text-3xl sm:text-2xl xsm:text-xl    
+                        lg:text-3xl md:text-3xl sm:text-2xl xsm:text-xl
+                        duration-300 hover:scale-110    
                     `}
                 >
                     <a
                         href="https://drive.google.com/drive/folders/176bL7ZLtJw7tb-tTOL2quPf3OBEDNv1W"
+                        className="hover:text-[#04C4D9]"
                     >
                         CLIPPING
                     </a>
@@ -27,18 +28,19 @@ export default function Clipping() {
             </div>
             <div
                 className={`
-                    py-4 px-10 items-center justify-center duration-300
+                    py-4 px-10 items-center justify-center
                     md:py-8 sm:py-8
-                    hover:scale-110 hover:text-[#04C4D9]
                 `}
             >
                 <h1
                     className={`
-                        lg:text-3xl md:text-3xl sm:text-2xl xsm:text-xl    
+                        lg:text-3xl md:text-3xl sm:text-2xl xsm:text-xl
+                        duration-300 hover:scale-110    
                     `}
                 >
                     <a
-                        href="mailto:caboclomestico@gmail.com "
+                        href="mailto:caboclomestico@gmail.com"
+                        className="hover:text-[#04C4D9]"
                     >
                         CONTATO
                     </a>
