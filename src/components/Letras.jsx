@@ -35,52 +35,102 @@ export default function Letras() {
           </div>
           <div className="grid-cols-1 pt-3 text-center">
             <a href="#" data-bs-toggle="modal" data-bs-target="#letras-01">
-              <h1 className="p-3 text-lg uppercase text-[#04C4D9] hover:text-[#f29f05]">
+              <h1
+                className={`
+                  p-3 text-lg uppercase text-[#04C4D9]
+                  duration-300 hover:text-[#f29f05] hover:scale-105
+                `}
+              >
                 01 - Chão do Mar
               </h1>
             </a>
             <a href="#" data-bs-toggle="modal" data-bs-target="#letras-02">
-              <h1 className="p-3 text-lg uppercase text-[#04C4D9] hover:text-[#f29f05]">
+              <h1
+                className={`
+                  p-3 text-lg uppercase text-[#04C4D9]
+                  duration-300 hover:text-[#f29f05] hover:scale-105
+                `}
+              >
                 02 - Aquarela Cigana
               </h1>
             </a>
             <a href="#" data-bs-toggle="modal" data-bs-target="#letras-03">
-              <h1 className="p-3 text-lg uppercase text-[#04C4D9] hover:text-[#f29f05]">
+              <h1
+                className={`
+                  p-3 text-lg uppercase text-[#04C4D9]
+                  duration-300 hover:text-[#f29f05] hover:scale-105
+                `}
+              >
                 03 - Santa Maria
               </h1>
             </a>
             <a href="#" data-bs-toggle="modal" data-bs-target="#letras-04">
-              <h1 className="p-3 text-lg uppercase text-[#04C4D9] hover:text-[#f29f05]">
+              <h1
+                className={`
+                  p-3 text-lg uppercase text-[#04C4D9]
+                  duration-300 hover:text-[#f29f05] hover:scale-105
+                `}
+              >
                 04 - Águia do Sertão
               </h1>
             </a>
             <a href="#" data-bs-toggle="modal" data-bs-target="#letras-05">
-              <h1 className="p-3 text-lg uppercase text-[#04C4D9] hover:text-[#f29f05]">
+              <h1
+                className={`
+                  p-3 text-lg uppercase text-[#04C4D9]
+                  duration-300 hover:text-[#f29f05] hover:scale-105
+                `}
+              >
                 05 - Tupiniquim
               </h1>
             </a>
             <a href="#" data-bs-toggle="modal" data-bs-target="#letras-06">
-              <h1 className="p-3 text-lg uppercase text-[#04C4D9] hover:text-[#f29f05]">
+              <h1
+                className={`
+                  p-3 text-lg uppercase text-[#04C4D9]
+                  duration-300 hover:text-[#f29f05] hover:scale-105
+                `}
+              >
                 06 - Caboclo Mestiço
               </h1>
             </a>
             <a href="#" data-bs-toggle="modal" data-bs-target="#letras-07">
-              <h1 className="p-3 text-lg uppercase text-[#04C4D9] hover:text-[#f29f05]">
+              <h1
+                className={`
+                  p-3 text-lg uppercase text-[#04C4D9]
+                  duration-300 hover:text-[#f29f05] hover:scale-105
+                `}
+              >
                 07 - Rua do Amanhecer
               </h1>
             </a>
             <a href="#" data-bs-toggle="modal" data-bs-target="#letras-08">
-              <h1 className="p-3 text-lg uppercase text-[#04C4D9] hover:text-[#f29f05]">
+              <h1
+                className={`
+                  p-3 text-lg uppercase text-[#04C4D9]
+                  duration-300 hover:text-[#f29f05] hover:scale-105
+                `}
+              >
                 08 - Encruzilhada
               </h1>
             </a>
             <a href="#" data-bs-toggle="modal" data-bs-target="#letras-09">
-              <h1 className="p-3 text-lg uppercase text-[#04C4D9] hover:text-[#f29f05]">
+              <h1
+                className={`
+                  p-3 text-lg uppercase text-[#04C4D9]
+                  duration-300 hover:text-[#f29f05] hover:scale-105
+                `}
+              >
                 09 - Alagamar
               </h1>
             </a>
             <a href="#" data-bs-toggle="modal" data-bs-target="#letras-10">
-              <h1 className="p-3 text-lg uppercase text-[#04C4D9] hover:text-[#f29f05]">
+              <h1
+                className={`
+                  p-3 text-lg uppercase text-[#04C4D9]
+                  duration-300 hover:text-[#f29f05] hover:scale-105
+                `}
+              >
                 10 - Noite Sem Fim
               </h1>
             </a>
