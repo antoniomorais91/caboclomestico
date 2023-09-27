@@ -24,10 +24,21 @@ export default function Home() {
         <meta name="description" content="Caboclo Mestiço - Sistema Sonoro" />
         <meta property="og:title" content="Caboclo Mestiço" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="http://www.caboclomestico.com.br/" />
+        <meta property="og:url" content="https://caboclomestico.netlify.app/" />
         <meta
           property="og:image"
-          content="http://caboclomestico.netlify.app/sistema_sonoro_thumbnail.jpg"
+          content="https://caboclomestico.netlify.app/sistema_sonoro_thumbnail.jpg"
+        />
+        <meta
+          property="og:image:secure_url"
+          content="https://caboclomestico.netlify.app/sistema_sonoro_thumbnail.jpg"
+        />
+        <meta property="og:image:type" content="image/jpg" />
+        <meta property="og:image:width" content="250" />
+        <meta property="og:image:height" content="250" />
+        <meta
+          property="og:image:alt"
+          content="Miniatura Caboclo Mestiço."
         />
         <meta property="og:site_name" content="Caboclo Mestiço" />
         <meta property="og:description" content="Sistema Sonoro" />
