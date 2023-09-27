@@ -20,14 +20,14 @@ export default function Home() {
     <div className={`${questrial.className}`}>
       <Head>
         <meta charSet="utf-8" />
-        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <meta name="viewport" content="width=device-width,initial-scale=1.0" />
         <meta name="description" content="Caboclo Mestiço - Sistema Sonoro" />
         <meta property="og:title" content="Caboclo Mestiço" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="http://www.caboclomestico.com.br/" />
         <meta
           property="og:image"
-          content="http://caboclomestico.com.br/sistema_sonoro_social.jpg"
+          content="http://caboclomestico.netlify.app/sistema_sonoro_thumbnail.jpg"
         />
         <meta property="og:site_name" content="Caboclo Mestiço" />
         <meta property="og:description" content="Sistema Sonoro" />
