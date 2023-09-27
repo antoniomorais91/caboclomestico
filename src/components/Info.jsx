@@ -42,11 +42,12 @@ export default function Info() {
                     `}
                 >
                     <a
-                        href=""
+                        href="https://drive.google.com/file/d/1H3T2WPhiR99L2hPbaLEyLTqLRGf-ue8d/view"
+                        target="_blank"
                         className="hover:text-[#04C4D9]"
-                        data-bs-toggle="offcanvas"
+                        /* data-bs-toggle="offcanvas"
                         data-bs-target="#FichaTecnica"
-                        aria-controls="letrasMenu"
+                        aria-controls="letrasMenu" */
                     >
                         FICHA TÉCNICA
                     </a>

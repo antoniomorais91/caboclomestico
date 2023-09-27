@@ -4,10 +4,7 @@ export default function Document() {
   return (
     <Html lang="pt">
       <Head>
-        <link
-          rel="icon"
-          href="/caboclo-ico.png"
-          type="image/<generated>" />
+        <link rel="icon" href="/caboclo-ico.png" type="image/<generated>" />
       </Head>
       <body>
         <Main />
