@@ -20,6 +20,7 @@ export default function Clipping() {
                 >
                     <a
                         href="https://drive.google.com/drive/folders/176bL7ZLtJw7tb-tTOL2quPf3OBEDNv1W"
+                        target="_blank"
                         className="hover:text-[#04C4D9]"
                     >
                         CLIPPING

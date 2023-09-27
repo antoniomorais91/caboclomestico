@@ -1,10 +1,11 @@
+// @ts-nocheck
 export default function CabocloMestico() {
     return (
       <div>
         <div
           className="modal fade"
           id="letras-06"
-          tabindex="-1"
+          tabIndex="-1"
           aria-labelledby="Caboclo Mestiço - Letra"
           aria-hidden="true"
         >

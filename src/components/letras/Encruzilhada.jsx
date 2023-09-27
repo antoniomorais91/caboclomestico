@@ -1,10 +1,11 @@
+// @ts-nocheck
 export default function Encruzilhada() {
     return (
       <div>
         <div
           className="modal fade"
           id="letras-08"
-          tabindex="-1"
+          tabIndex="-1"
           aria-labelledby="Encruzilhada - Letra"
           aria-hidden="true"
         >

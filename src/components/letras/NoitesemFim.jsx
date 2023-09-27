@@ -1,10 +1,11 @@
+// @ts-nocheck
 export default function NoitesemFim() {
     return (
       <div>
         <div
           className="modal fade"
           id="letras-10"
-          tabindex="-1"
+          tabIndex="-1"
           aria-labelledby="Noite Sem Fim - Letra"
           aria-hidden="true"
         >

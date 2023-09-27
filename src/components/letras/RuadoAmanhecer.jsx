@@ -1,10 +1,11 @@
+// @ts-nocheck
 export default function RuadoAmanhecer() {
     return (
       <div>
         <div
           className="modal fade"
           id="letras-07"
-          tabindex="-1"
+          tabIndex="-1"
           aria-labelledby="Rua do Amanhecer - Letra"
           aria-hidden="true"
         >

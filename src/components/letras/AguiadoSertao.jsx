@@ -1,10 +1,11 @@
+// @ts-nocheck
 export default function AguiadoSertao() {
     return (
       <div>
         <div
           className="modal fade"
           id="letras-04"
-          tabindex="-1"
+          tabIndex="-1"
           aria-labelledby="Águia do Sertão - Letra"
           aria-hidden="true"
         >

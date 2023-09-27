@@ -1,10 +1,11 @@
+// @ts-nocheck
 export default function Tupiniquim() {
     return (
       <div>
         <div
           className="modal fade"
           id="letras-05"
-          tabindex="-1"
+          tabIndex="-1"
           aria-labelledby="Tupiniquim - Letra"
           aria-hidden="true"
         >

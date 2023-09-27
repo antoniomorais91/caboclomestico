@@ -14,6 +14,7 @@ export default function Download() {
                 >
                     <a
                         href="https://tr.ee/6y4sXcOFLn"
+                        target="_blank"
                         className="hover:text-[#f29f05]"
                     >
                         DOWNLOAD
@@ -33,6 +34,7 @@ export default function Download() {
                 >
                     <a
                         href="https://tr.ee/6y4sXcOFLn"
+                        target="_blank"
                         className="hover:text-[#f29f05]"
                     >
                         ÁLBUM
@@ -46,7 +48,8 @@ export default function Download() {
                     `}
                 >
                     <a
-                        href="https://tr.ee/6y4sXcOFLn"
+                        href="https://drive.google.com/file/d/1_FfCTxvQa8cJkT9j0gXm1DyPFyKvLAcL/view"
+                        target="_blank"
                         className="hover:text-[#f29f05]"
                     >
                         RELEASE

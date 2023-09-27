@@ -1,10 +1,11 @@
+// @ts-nocheck
 export default function AquarelaCigana() {
   return (
     <div>
       <div
         className="modal fade"
         id="letras-02"
-        tabindex="-1"
+        tabIndex="-1"
         aria-labelledby="Aquarela Cigana - Letra"
         aria-hidden="true"
       >

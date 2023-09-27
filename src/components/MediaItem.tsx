@@ -1,9 +1,10 @@
 import Link from "next/link"
+import { ReactNode } from "react"
 
 interface PropsMediaItem {
     url: string
     title: string
-    icon: string
+    icon: ReactNode
 }
 
 export default function MediaItem(props: PropsMediaItem) {

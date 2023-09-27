@@ -1,10 +1,11 @@
+// @ts-nocheck
 export default function ChaodoMar() {
   return (
     <div>
       <div
         className="modal fade"
         id="letras-01"
-        tabindex="-1"
+        tabIndex="-1"
         aria-labelledby="Chão do Mar - Letra"
         aria-hidden="true"
       >

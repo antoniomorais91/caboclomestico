@@ -1,4 +1,4 @@
-import LetrasModals from '@/components/LetrasModals'
+import LetrasModals from "@/components/LetrasModals";
 
 export default function Letras() {
   return (
@@ -25,11 +25,13 @@ export default function Letras() {
         </div>
         <div className="offcanvas-body">
           <div className="container-sm pb-4 w-50">
-            <img
-              className="img-fluid mx-auto d-block shadow-2xl shadow-black"
-              src="/sistemasonoro.png"
-              alt="Capa do Álbum Sistema Sonoro"
-            />
+            <picture>
+              <img
+                className="img-fluid mx-auto d-block shadow-2xl shadow-black"
+                src="/sistemasonoro.png"
+                alt="Capa do Álbum Sistema Sonoro"
+              />
+            </picture>
           </div>
           <div className="grid-cols-1 pt-3 text-center">
             <a href="#" data-bs-toggle="modal" data-bs-target="#letras-01">
