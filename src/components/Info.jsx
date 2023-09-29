@@ -20,12 +20,12 @@ export default function Info() {
                 >
                     <a
                         href=""
-                        className="hover:text-[#04C4D9]"
+                        className="uppercase hover:text-[#04C4D9]"
                         data-bs-toggle="offcanvas"
                         data-bs-target="#Letras"
                         aria-controls="letrasMenu"
                     >
-                        LETRAS
+                        Letras
                     </a>
                 </h1>
             </div>
@@ -42,14 +42,14 @@ export default function Info() {
                     `}
                 >
                     <a
-                        href="https://drive.google.com/file/d/1H3T2WPhiR99L2hPbaLEyLTqLRGf-ue8d/view"
+                        href=""
                         target="_blank"
-                        className="hover:text-[#04C4D9]"
-                        /* data-bs-toggle="offcanvas"
+                        className="uppercase hover:text-[#04C4D9]"
+                        data-bs-toggle="offcanvas"
                         data-bs-target="#FichaTecnica"
-                        aria-controls="letrasMenu" */
+                        aria-controls="letrasMenu"
                     >
-                        FICHA TÉCNICA
+                        Ficha Técnica
                     </a>
                 </h1>
             </div>

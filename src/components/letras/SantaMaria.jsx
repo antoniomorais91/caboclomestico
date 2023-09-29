@@ -30,7 +30,7 @@ export default function SantaMaria() {
                   <p>Nasceu como figurante</p>
                   <p>Seu papel passar mal</p>
                   <p>Na novela do desprezo</p>
-                  <p>Interpreto o desgosto</p>
+                  <p>Interpreta o desgosto</p>
                   <p>Lata d’água na cabeça</p>
                   <p>Vai passar no canal</p>
                   <br />
@@ -60,7 +60,7 @@ export default function SantaMaria() {
                   <p>Arrebentou as correntes sem alma</p>
                   <p>Degolou o capitão do navio negreiro</p>
                   <p>E lançou sua cabeça nos mares distantes</p>
-                  <p>Do cabo das tormentas</p>
+                  <p>Do Cabo das Tormentas</p>
                   <p>No Tribunal da Injustiça dos Homens</p>
                   <p>Julgaram que a mulher não era santa</p>
                   <p>E assim foi queimada viva</p>

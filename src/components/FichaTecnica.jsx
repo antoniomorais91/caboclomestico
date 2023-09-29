@@ -3,14 +3,14 @@ export default function Letras() {
   return (
     <div>
       <div
-        className="offcanvas offcanvas-end bg-[#13136b]"
+        className="offcanvas offcanvas-end bg-[#3c0c64]"
         tabIndex="-1"
         id="FichaTecnica"
         aria-labelledby="offcanvasDarkLabel"
       >
         <div className="offcanvas-header">
           <h1 className="uppercase text-[#04C4D9]" id="offcanvasDarkLabel">
-            Sistema Sonoro
+            Ficha Técnica
           </h1>
           <a
             href="#"
@@ -22,66 +22,144 @@ export default function Letras() {
           </a>
         </div>
         <div className="offcanvas-body">
-          <div className="container-sm pb-4 w-50">
-            <picture>
-              <img
-                className="img-fluid mx-auto d-block shadow-2xl shadow-black"
-                src="/sistemasonoro.png"
-                alt="Capa do Álbum Sistema Sonoro"
-              />
-            </picture>
-          </div>
-          <div className="grid-cols-1 pt-3 text-center">
-            <a href="#" data-bs-toggle="modal" data-bs-target="#letras-01">
-              <h1 className="p-3 text-lg uppercase text-[#04C4D9] hover:text-[#f29f05]">
-                01 - Chão do Mar
-              </h1>
-            </a>
-            <a href="#" data-bs-toggle="modal" data-bs-target="#letras-02">
-              <h1 className="p-3 text-lg uppercase text-[#04C4D9] hover:text-[#f29f05]">
-                02 - Aquarela Cigana
-              </h1>
-            </a>
-            <a href="#" data-bs-toggle="modal" data-bs-target="#letras-03">
-              <h1 className="p-3 text-lg uppercase text-[#04C4D9] hover:text-[#f29f05]">
-                03 - Santa Maria
-              </h1>
-            </a>
-            <a href="#" data-bs-toggle="modal" data-bs-target="#letras-04">
-              <h1 className="p-3 text-lg uppercase text-[#04C4D9] hover:text-[#f29f05]">
-                04 - Águia do Sertão
-              </h1>
-            </a>
-            <a href="#" data-bs-toggle="modal" data-bs-target="#letras-05">
-              <h1 className="p-3 text-lg uppercase text-[#04C4D9] hover:text-[#f29f05]">
-                05 - Tupiniquim
-              </h1>
-            </a>
-            <a href="#" data-bs-toggle="modal" data-bs-target="#letras-06">
-              <h1 className="p-3 text-lg uppercase text-[#04C4D9] hover:text-[#f29f05]">
-                06 - Caboclo Mestiço
-              </h1>
-            </a>
-            <a href="#" data-bs-toggle="modal" data-bs-target="#letras-07">
-              <h1 className="p-3 text-lg uppercase text-[#04C4D9] hover:text-[#f29f05]">
-                07 - Rua do Amanhecer
-              </h1>
-            </a>
-            <a href="#" data-bs-toggle="modal" data-bs-target="#letras-08">
-              <h1 className="p-3 text-lg uppercase text-[#04C4D9] hover:text-[#f29f05]">
-                08 - Encruzilhada
-              </h1>
-            </a>
-            <a href="#" data-bs-toggle="modal" data-bs-target="#letras-09">
-              <h1 className="p-3 text-lg uppercase text-[#04C4D9] hover:text-[#f29f05]">
-                09 - Alagamar
-              </h1>
-            </a>
-            <a href="#" data-bs-toggle="modal" data-bs-target="#letras-10">
-              <h1 className="p-3 text-lg uppercase text-[#04C4D9] hover:text-[#f29f05]">
-                10 - Noite Sem Fim
-              </h1>
-            </a>
+          <div className="grid-cols-1 text-[#f29f05]">
+            <div className="p-2 py-3 pt-0">
+              <h1 className="p-1 text-center text-lg uppercase">Músicos</h1>
+              <p className="p-1 text-left text-sm">
+                <small className="text-[#04C4D9]">
+                  Vozes, Letras e Melodias:
+                </small>{" "}
+                Alê Maia
+              </p>
+              <p className="p-1 text-left text-sm">
+                <small className="text-[#04C4D9]">
+                  Beats Eletrônicos, Teclados e Guitarras:
+                </small>{" "}
+                Hamilton Tenório
+              </p>
+              <p className="p-1 text-left text-sm">
+                <small className="text-[#04C4D9]">Trompetes:</small> Roberto
+                Patrício
+              </p>
+              <p className="p-1 text-left text-sm">
+                <small className="text-[#04C4D9]">Percussões:</small> Arnaldo do
+                Monte
+              </p>
+            </div>
+            <div className="p-2 py-3">
+              <h1 className="p-1 text-center text-lg uppercase">Músicos Convidados</h1>
+              <p className="p-1 text-left text-sm">
+                <small className="text-[#04C4D9]">
+                  Timbales em “Alagamar”:
+                </small>{" "}
+                Peu Drums
+              </p>
+              <p className="p-1 text-left text-sm">
+                <small className="text-[#04C4D9]">
+                  Sintetizadores em “Chão do Mar”, “Águia do Sertão” e “Caboclo
+                  Mestiço”:
+                </small>{" "}
+                Léo Domingues
+              </p>
+              <p className="p-1 text-left text-sm">
+                <small className="text-[#04C4D9]">
+                  Vozes Femininas em “Aquarela Cigana”, “Santa Maria”, “Rua do
+                  Amanhecer” e “Encruzilhada”:
+                </small>{" "}
+                Ceci Medeiros
+              </p>
+            </div>
+            <div className="p-2 py-3">
+              <h1 className="p-1 text-center text-lg uppercase">Arranjos de Metal</h1>
+              <p className="p-1 text-left text-sm">
+                <small className="text-[#04C4D9]">Arranjos de Trompete:</small>{" "}
+                Paulo Nascimentos
+              </p>
+              <p className="p-1 text-left text-sm">
+                <small className="text-[#04C4D9]">
+                  Arranjos de Trompete em “Santa Maria”:
+                </small>{" "}
+                Paulo Nascimentos e Roberto Patrício
+              </p>
+              <p className="p-1 text-left text-sm">
+                <small className="text-[#04C4D9]">
+                  VArranjos de Trompete em “Rua do Amanhecer”:
+                </small>{" "}
+                Nilsinho Amarante
+              </p>
+            </div>
+            <div className="p-2 py-3">
+              <h1 className="p-1 text-center text-lg uppercase">Gravações</h1>
+              <p className="p-1 text-left text-sm">
+                <small className="text-[#04C4D9]">Gravação de Trompetes:</small>{" "}
+                Hamilton Tenório
+              </p>
+              <p className="p-1 text-left text-sm">
+                <small className="text-[#04C4D9]">
+                  Gravação de Trompetes em “Águia do Sertão”:
+                </small>{" "}
+                Tiago Eloy
+              </p>
+              <p className="p-1 text-left text-sm">
+                <small className="text-[#04C4D9]">
+                  Gravação de Percussões:
+                </small>{" "}
+                Hamilton Tenório
+              </p>
+              <p className="p-1 text-left text-sm">
+                <small className="text-[#04C4D9]">
+                  Gravação de Percussões em “Águia do Sertão” e “Aquarela
+                  Cigana”:
+                </small>{" "}
+                Tiago Eloy
+              </p>
+              <p className="p-1 text-left text-sm">
+                <small className="text-[#04C4D9]">
+                  Gravação de Guitarras e Teclados:
+                </small>{" "}
+                Hamilton Tenório
+              </p>
+              <p className="p-1 text-left text-sm">
+                <small className="text-[#04C4D9]">Gravação de Vozes:</small>{" "}
+                Tiago Eloy
+              </p>
+              <p className="p-1 text-left text-sm">
+                <small className="text-[#04C4D9]">
+                  Gravado entre 2022 e 2023, nos Estúdios HT, na cidade de
+                  Olinda, no Caranguejo Uçá e no Estúdio O Som de Tudo, em
+                  Recife, Pernambuco, Nordeste do Brasil.
+                </small>
+              </p>
+            </div>
+            <div className="p-2 py-3">
+              <h1 className="p-1 text-center text-lg uppercase">Mixagem e Masterização</h1>
+              <p className="p-1 text-left text-sm">
+                <small className="text-[#04C4D9]">Mixagem e Masterização de todas as faixas:</small>{" "}
+                Léo Domingues
+              </p>
+            </div>
+            <div className="p-2 py-3">
+              <h1 className="p-1 text-center text-lg uppercase">Arte da Capa</h1>
+              <p className="p-1 text-left text-sm">
+                <small className="text-[#04C4D9]">Concepção da Arte:</small>{" "}
+                Alê Maia
+              </p>
+              <p className="p-1 text-left text-sm">
+                <small className="text-[#04C4D9]">Ilustração e Direção de Arte:</small>{" "}
+                Gregório Vieira
+              </p>
+            </div>
+            <div className="p-2 py-3">
+              <h1 className="p-1 text-center text-lg uppercase">Produção e Direção</h1>
+              <p className="p-1 text-left text-sm">
+                <small className="text-[#04C4D9]">Produção Musical:</small>{" "}
+                Hamilton Tenório e Alê Maia
+              </p>
+              <p className="p-1 text-left text-sm">
+                <small className="text-[#04C4D9]">Direção Executiva:</small>{" "}
+                Hamilton Tenório e Alê Maia
+              </p>
+            </div>
           </div>
         </div>
       </div>
