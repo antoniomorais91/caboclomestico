@@ -22,6 +22,8 @@ export default function Clipping() {
                         href="#"
                         target="_blank"
                         className="uppercase hover:text-[#04C4D9]"
+                        data-bs-toggle="modal"
+                        data-bs-target="#fotos"
                     >
                         Fotos
                     </a>

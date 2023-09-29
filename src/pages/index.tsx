@@ -6,6 +6,7 @@ import Letras from "@/components/Letras";
 import FichaTecnica from "@/components/FichaTecnica";
 import Info from "@/components/Info";
 import SocialMedia from "@/components/SocialMedia";
+import SwiperOff from '@/components/SwiperOff'
 import Clipping from "@/components/Clipping";
 import Footer from "@/components/Footer";
 import Head from "next/head";
@@ -63,6 +64,7 @@ export default function Home() {
           <Download />
           <Info />
           <SocialMedia />
+          <SwiperOff />
           <Clipping />
           <Footer />
         </div>
