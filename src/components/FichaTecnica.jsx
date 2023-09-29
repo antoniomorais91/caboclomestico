@@ -34,7 +34,7 @@ export default function Letras() {
               <p className="p-1 text-left text-base">
                 <small className="text-[#04C4D9]">
                   Beats Eletrônicos, Teclados e Guitarras:
-                </small>{" "}
+                </small><br />
                 Hamilton Tenório
               </p>
               <p className="p-1 text-left text-base">
@@ -83,7 +83,7 @@ export default function Letras() {
               </p>
               <p className="p-1 text-left text-base">
                 <small className="text-[#04C4D9]">
-                  VArranjos de Trompete em “Rua do Amanhecer”:
+                  Arranjos de Trompete em “Rua do Amanhecer”:
                 </small>{" "}
                 Nilsinho Amarante
               </p>
@@ -134,7 +134,7 @@ export default function Letras() {
             <div className="p-2 py-3">
               <h1 className="p-1 text-center text-lg uppercase">Mixagem e Masterização</h1>
               <p className="p-1 text-left text-base">
-                <small className="text-[#04C4D9]">Mixagem e Masterização de todas as faixas:</small>{" "}
+                <small className="text-[#04C4D9]">Mixagem e Masterização de todas as faixas:</small><br />
                 Léo Domingues
               </p>
             </div>
@@ -157,7 +157,7 @@ export default function Letras() {
               </p>
               <p className="p-1 text-left text-base">
                 <small className="text-[#04C4D9]">Direção Executiva:</small>{" "}
-                Hamilton Tenório e Alê Maia
+                Alê Maia e Hamilton Tenório
               </p>
             </div>
           </div>

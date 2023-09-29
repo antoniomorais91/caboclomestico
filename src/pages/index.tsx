@@ -1,5 +1,5 @@
 import { Questrial } from "next/font/google";
-import Logo from "../components/Logo";
+import Logo from "@/components/Logo";
 import Album from "@/components/Album";
 import Download from "@/components/Download";
 import Letras from "@/components/Letras";
@@ -8,6 +8,7 @@ import Info from "@/components/Info";
 import SocialMedia from "@/components/SocialMedia";
 import SwiperOff from '@/components/SwiperOff'
 import Clipping from "@/components/Clipping";
+import Contato from "@/components/Contato";
 import Footer from "@/components/Footer";
 import Head from "next/head";
 
@@ -66,6 +67,7 @@ export default function Home() {
           <SocialMedia />
           <SwiperOff />
           <Clipping />
+          <Contato />
           <Footer />
         </div>
       </main>

@@ -39,7 +39,7 @@ export default function AguiadoSertao() {
                   <p>Cuidado cante cantor</p>
                   <p>Pra você não atravessar</p>
                   <br />
-                  <p>Pense como Cantador</p>
+                  <p>Pense como um Cantador</p>
                   <p>Mil palavras a galope</p>
                   <p>Vá montando logo um mote</p>
                   <p>Pro sujeito recuar</p>

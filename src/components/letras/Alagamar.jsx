@@ -52,7 +52,7 @@ export default function Alagamar() {
                   <p>O siri gritou na espuma</p>
                   <p>Que a praia era seu lugar</p>
                   <p>Camarão acordou cedo</p>
-                  <p>Pra a onda não lhe levar</p>
+                  <p>Pra onda não lhe levar</p>
                   <br />
                 </div>
               </div>

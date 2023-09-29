@@ -19,9 +19,8 @@ export default function Clipping() {
                     `}
                 >
                     <a
-                        href="#"
                         target="_blank"
-                        className="uppercase hover:text-[#04C4D9]"
+                        className="uppercase hover:text-[#04C4D9] hover:cursor-pointer"
                         data-bs-toggle="modal"
                         data-bs-target="#fotos"
                     >
@@ -63,8 +62,9 @@ export default function Clipping() {
                     `}
                 >
                     <a
-                        href="mailto:caboclomestico@gmail.com"
-                        className="uppercase hover:text-[#04C4D9]"
+                        className="uppercase hover:text-[#04C4D9] hover:cursor-pointer"
+                        data-bs-toggle="modal"
+                        data-bs-target="#contato"
                     >
                         Contato
                     </a>

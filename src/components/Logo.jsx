@@ -14,9 +14,9 @@ export default function Logo() {
             <Link href='/'>
                 <Image
                     src={logo}
-                    alt="Logo Comando 081"
+                    alt="Logo Caboclo Mestiço"
                     width={190}
-                    height={59}
+                    height={190}
                     style={{minWidth: "150px"}}
                 />
             </Link>

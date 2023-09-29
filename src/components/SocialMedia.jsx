@@ -5,12 +5,12 @@ export default function SocialMedia() {
     return (
         <div
             className={`
-                grid grid-cols-9 gap-2 py-4 h-16
+                grid grid-cols-8 gap-2 py-4 h-16
                 justify-items-center text-[#f3f3f3]
-                lg:grid-cols-9 lg:h-16
-                md:grid-cols-9 md:h-20 md:py-2
-                sm:grid-cols-3 sm:grid-rows-2 sm:h-48 sm:px-6
-                xsm:grid-cols-3 xsm:grid-rows-2 xsm:h-48 xsm:px-6 
+                lg:grid-cols-8 lg:h-16
+                md:grid-cols-8 md:h-20 md:py-2
+                sm:grid-cols-4 sm:grid-rows-2 sm:h-48 sm:px-6
+                xsm:grid-cols-4 xsm:grid-rows-2 xsm:h-48 xsm:px-6 
             `}
         >
             <MediaItem icon={IconYou} title="Clique aqui e acesse o nosso Canal do Youtube!" url="https://www.youtube.com/@CabocloMestico"/>
@@ -21,7 +21,6 @@ export default function SocialMedia() {
             <MediaItem icon={IconTik} title="Clique aqui e acesse o nosso TikTok!" url="https://tiktok.com/@caboclo_mestico"/>
             <MediaItem icon={IconFace} title="Clique aqui e acesse o nosso Facebook Oficial!" url="https://www.facebook.com/caboclomesticooficial"/>
             <MediaItem icon={IconPint} title="Clique aqui e acesse o nosso Pinterest!" url="https://br.pinterest.com/caboclomestico/"/>
-            <MediaItem icon={IconWpp} title="Clique aqui e nos mande uma mensagem no Whatsapp!" url="https://api.whatsapp.com/send?phone=5581998969399&text=Ol%C3%A1%20vim%20atrav%C3%A9s%20do%20site%20do%20Caboclo%20Mesti%C3%A7o..."/>
         </div>
     )
 }
