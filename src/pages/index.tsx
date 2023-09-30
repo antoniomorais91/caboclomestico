@@ -26,14 +26,14 @@ export default function Home() {
         <meta name="description" content="Caboclo Mestiço - Sistema Sonoro" />
         <meta property="og:title" content="Caboclo Mestiço" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://caboclomestico.netlify.app/" />
+        <meta property="og:url" content="https://www.caboclomestico.com.br/" />
         <meta
           property="og:image"
-          content="https://caboclomestico.netlify.app/sistema_sonoro_thumbnail.jpg"
+          content="https://www.caboclomestico.com.br/sistema_sonoro_thumbnail.jpg"
         />
         <meta
           property="og:image:secure_url"
-          content="https://caboclomestico.netlify.app/sistema_sonoro_thumbnail.jpg"
+          content="https://www.caboclomestico.com.br/sistema_sonoro_thumbnail.jpg"
         />
         <meta property="og:image:type" content="image/jpg" />
         <meta property="og:image:width" content="250" />
@@ -42,8 +42,10 @@ export default function Home() {
           property="og:image:alt"
           content="Miniatura Caboclo Mestiço."
         />
-        <meta property="og:site_name" content="Caboclo Mestiço" />
-        <meta property="og:description" content="Sistema Sonoro" />
+        <meta property="og:site_name" content="Caboclo Mestiço - Sistema Sonoro" />
+        <meta property="og:description" content="Caboclo Mestiço é uma Banda nascida em Pernambuco
+          e sua proposta musical é uma viagem pela Sonoridade do Brasil, com ênfase na Musicalidade Nordestina,
+          mas com ouvidos abertos para a Música Eletrônica Mundial." />
         <meta property="fb:admins" content="100061529107543" />
         <meta name="author" content="Vini Morais" />
         <title>Caboclo Mestiço - Sistema Sonoro</title>

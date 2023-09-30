@@ -13,7 +13,7 @@ export default function Album() {
         >
             <Image 
                 src={album}
-                alt="Sistema Sonoro"
+                alt="Capa do Álbum - Sistema Sonoro"
                 width={700}
                 height={700}
                 style={{minWidth: "160px"}}

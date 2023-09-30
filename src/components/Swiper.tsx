@@ -50,112 +50,112 @@ export default function SwiperComponent() {
                 <SwiperSlide>
                     <Image
                         src={slider1}
-                        alt="Jogador de Paintball de frente, equipado de roupa e máscara, empunhando um marcador."
+                        alt="Alê Maia, Hamilton Tenório e Roberto Patrício em frente a Rural."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider2}
-                        alt="Jogador de Paintball mirando, posicionado com marcador em mãos."
+                        alt="Roberto Patrício, Alê Maia e Hamilton Tenório com os rostos cobertos respectivamente, por um trompete, um chápeu preto e um machine."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider3}
-                        alt="Vários jogadores invadindo e cobrindo uma área."
+                        alt="Hamilton Tenório Alê Maia e Roberto Patrício de frente com uma arvóre como plano de fundo."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider4}
-                        alt="Jogador profissional posicionado atrás do bunker."
+                        alt="Arnaldo do Monte, Alê Maia, Hamilton Tenório e Roberto Patrício no meio da rua."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider5}
-                        alt="Jogador empunhando marcador avançando de frente."
+                        alt="Hamilton Tenório, Arnaldo do Monte, Roberto Patrício e Alê Maia no meio da floresta."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider6}
-                        alt="Jogador atirando atrás de obstaculo de pneus."
+                        alt="Alê Maia e Roberto Patrício de perfil com várias palmeiras de fundo."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider7}
-                        alt="Jogador mirando atrás de uma árvore."
+                        alt="Hamilton Tenório, Alê Maia, Roberto Patrício, Arnaldo do Monte e o ilú, em frente a um lago."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider8}
-                        alt="Grupo de jogadores reunidos para foto dos times juntos."
+                        alt="Hamilton Tenório, Arnaldo do Monte, Alê Maia e Roberto Patrício, na rua do Bom Jesus no Recife Antigo."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider9}
-                        alt="Jogadora empunhando na mão direita um marcador réplica, vestida de macacão com capuz e colete."
+                        alt="Roberto Patrício, Arnaldo do Monte, Alê Maia e Hamilton Tenório com os instrumentos na frente e a floresta de fundo."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider10}
-                        alt="Jogador mirando atrás de coluna, com macacão, capuz e colete."
+                        alt="Alê Maia, Hamilton Tenório, Arnaldo do Monte e Roberto Patrício e de fundo um gramado verde."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider11}
-                        alt="Jogadora deitada no chão observando, equipada com macacão, máscara e marcador."
+                        alt="Alê Maia cantando e Hamilton Tenório na guitarra com a banda de fundo no show do caboclo mestiço."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider12}
-                        alt="Jogador do meio do campo andando sorrateiro, próximo a um carretel de fios enorme."
+                        alt="Alê Maia cantando e Hamilton Tenório na guitarra com a banda de fundo no show do caboclo mestiço."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider13}
-                        alt="Jogador do meio do campo andando sorrateiro, próximo a um carretel de fios enorme."
+                        alt="Alê Maia cantando e Hamilton Tenório na guitarra com a banda de fundo no show do caboclo mestiço na sede do alafin oyo."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider14}
-                        alt="Jogador do meio do campo andando sorrateiro, próximo a um carretel de fios enorme."
+                        alt="Alê Maia cantando e Hamilton Tenório na guitarra com a banda de fundo no show do caboclo mestiço no Pernambuco Lo-Fi."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider15}
-                        alt="Jogador do meio do campo andando sorrateiro, próximo a um carretel de fios enorme."
+                        alt="Roberto Patrício, Alê Maia, Arnaldo do Monte e Hamilton Tenório tocando num barco na praia."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
                 <SwiperSlide>
                     <Image
                         src={slider16}
-                        alt="Jogador do meio do campo andando sorrateiro, próximo a um carretel de fios enorme."
+                        alt="Hamilton Tenório, Roberto Patrício, Alê Maia e Arnaldo do Monte tocando num barco no mar."
                         className='w-full h-full block object-cover'
                     />
                 </SwiperSlide>
