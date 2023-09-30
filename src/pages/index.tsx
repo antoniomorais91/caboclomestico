@@ -24,7 +24,7 @@ export default function Home() {
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width,initial-scale=1.0" />
         <meta name="description" content="Caboclo Mestiço - Sistema Sonoro" />
-        <meta property="og:title" content="Caboclo Mestiço" />
+        <meta property="og:title" content="Caboclo Mestiço - Sistema Sonoro" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.caboclomestico.com.br/" />
         <meta
@@ -40,7 +40,7 @@ export default function Home() {
         <meta property="og:image:height" content="250" />
         <meta
           property="og:image:alt"
-          content="Miniatura Caboclo Mestiço."
+          content="Miniatura Caboclo Mestiço - Sistema Sonoro."
         />
         <meta property="og:site_name" content="Caboclo Mestiço - Sistema Sonoro" />
         <meta property="og:description" content="Caboclo Mestiço é uma Banda nascida em Pernambuco
