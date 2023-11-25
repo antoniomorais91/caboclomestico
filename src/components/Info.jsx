@@ -47,7 +47,7 @@ export default function Info() {
                         className="uppercase hover:text-[#04C4D9]"
                         data-bs-toggle="offcanvas"
                         data-bs-target="#FichaTecnica"
-                        aria-controls="Acesso Ficha Técnica"
+                        aria-controls="Ficha Técnica"
                     >
                         Ficha Técnica
                     </a>

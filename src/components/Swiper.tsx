@@ -52,6 +52,7 @@ export default function SwiperComponent() {
                         src={slider1}
                         alt="Alê Maia, Hamilton Tenório e Roberto Patrício em frente a Rural."
                         className='w-full h-full block object-cover'
+                        loading="lazy"
                     />
                 </SwiperSlide>
                 <SwiperSlide>
@@ -59,6 +60,7 @@ export default function SwiperComponent() {
                         src={slider2}
                         alt="Roberto Patrício, Alê Maia e Hamilton Tenório com os rostos cobertos respectivamente, por um trompete, um chápeu preto e um machine."
                         className='w-full h-full block object-cover'
+                        loading="lazy"
                     />
                 </SwiperSlide>
                 <SwiperSlide>
@@ -66,6 +68,7 @@ export default function SwiperComponent() {
                         src={slider3}
                         alt="Hamilton Tenório Alê Maia e Roberto Patrício de frente com uma arvóre como plano de fundo."
                         className='w-full h-full block object-cover'
+                        loading="lazy"
                     />
                 </SwiperSlide>
                 <SwiperSlide>
@@ -73,6 +76,7 @@ export default function SwiperComponent() {
                         src={slider4}
                         alt="Arnaldo do Monte, Alê Maia, Hamilton Tenório e Roberto Patrício no meio da rua."
                         className='w-full h-full block object-cover'
+                        loading="lazy"
                     />
                 </SwiperSlide>
                 <SwiperSlide>
@@ -80,6 +84,7 @@ export default function SwiperComponent() {
                         src={slider5}
                         alt="Hamilton Tenório, Arnaldo do Monte, Roberto Patrício e Alê Maia no meio da floresta."
                         className='w-full h-full block object-cover'
+                        loading="lazy"
                     />
                 </SwiperSlide>
                 <SwiperSlide>
@@ -87,6 +92,7 @@ export default function SwiperComponent() {
                         src={slider6}
                         alt="Alê Maia e Roberto Patrício de perfil com várias palmeiras de fundo."
                         className='w-full h-full block object-cover'
+                        loading="lazy"
                     />
                 </SwiperSlide>
                 <SwiperSlide>
@@ -94,6 +100,7 @@ export default function SwiperComponent() {
                         src={slider7}
                         alt="Hamilton Tenório, Alê Maia, Roberto Patrício, Arnaldo do Monte e o ilú, em frente a um lago."
                         className='w-full h-full block object-cover'
+                        loading="lazy"
                     />
                 </SwiperSlide>
                 <SwiperSlide>
@@ -101,6 +108,7 @@ export default function SwiperComponent() {
                         src={slider8}
                         alt="Hamilton Tenório, Arnaldo do Monte, Alê Maia e Roberto Patrício, na rua do Bom Jesus no Recife Antigo."
                         className='w-full h-full block object-cover'
+                        loading="lazy"
                     />
                 </SwiperSlide>
                 <SwiperSlide>
@@ -108,6 +116,7 @@ export default function SwiperComponent() {
                         src={slider9}
                         alt="Roberto Patrício, Arnaldo do Monte, Alê Maia e Hamilton Tenório com os instrumentos na frente e a floresta de fundo."
                         className='w-full h-full block object-cover'
+                        loading="lazy"
                     />
                 </SwiperSlide>
                 <SwiperSlide>
@@ -115,6 +124,7 @@ export default function SwiperComponent() {
                         src={slider10}
                         alt="Alê Maia, Hamilton Tenório, Arnaldo do Monte e Roberto Patrício e de fundo um gramado verde."
                         className='w-full h-full block object-cover'
+                        loading="lazy"
                     />
                 </SwiperSlide>
                 <SwiperSlide>
@@ -122,6 +132,7 @@ export default function SwiperComponent() {
                         src={slider11}
                         alt="Alê Maia cantando e Hamilton Tenório na guitarra com a banda de fundo no show do caboclo mestiço."
                         className='w-full h-full block object-cover'
+                        loading="lazy"
                     />
                 </SwiperSlide>
                 <SwiperSlide>
@@ -129,6 +140,7 @@ export default function SwiperComponent() {
                         src={slider12}
                         alt="Alê Maia cantando e Hamilton Tenório na guitarra com a banda de fundo no show do caboclo mestiço."
                         className='w-full h-full block object-cover'
+                        loading="lazy"
                     />
                 </SwiperSlide>
                 <SwiperSlide>
@@ -136,6 +148,7 @@ export default function SwiperComponent() {
                         src={slider13}
                         alt="Alê Maia cantando e Hamilton Tenório na guitarra com a banda de fundo no show do caboclo mestiço na sede do alafin oyo."
                         className='w-full h-full block object-cover'
+                        loading="lazy"
                     />
                 </SwiperSlide>
                 <SwiperSlide>
@@ -143,6 +156,7 @@ export default function SwiperComponent() {
                         src={slider14}
                         alt="Alê Maia cantando e Hamilton Tenório na guitarra com a banda de fundo no show do caboclo mestiço no Pernambuco Lo-Fi."
                         className='w-full h-full block object-cover'
+                        loading="lazy"
                     />
                 </SwiperSlide>
                 <SwiperSlide>
@@ -150,6 +164,7 @@ export default function SwiperComponent() {
                         src={slider15}
                         alt="Roberto Patrício, Alê Maia, Arnaldo do Monte e Hamilton Tenório tocando num barco na praia."
                         className='w-full h-full block object-cover'
+                        loading="lazy"
                     />
                 </SwiperSlide>
                 <SwiperSlide>
@@ -157,6 +172,7 @@ export default function SwiperComponent() {
                         src={slider16}
                         alt="Hamilton Tenório, Roberto Patrício, Alê Maia e Arnaldo do Monte tocando num barco no mar."
                         className='w-full h-full block object-cover'
+                        loading="lazy"
                     />
                 </SwiperSlide>
             </Swiper>

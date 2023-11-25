@@ -18,6 +18,7 @@ export default function Logo() {
                     width={190}
                     height={190}
                     style={{minWidth: "150px"}}
+                    loading="lazy"
                 />
             </Link>
         </div>

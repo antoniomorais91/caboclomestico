@@ -17,6 +17,7 @@ export default function Album() {
                 width={700}
                 height={700}
                 style={{minWidth: "160px"}}
+                loading="lazy"
             />
         </div>
     )

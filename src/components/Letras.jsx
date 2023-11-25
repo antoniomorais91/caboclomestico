@@ -11,7 +11,7 @@ export default function Letras() {
         aria-labelledby="offcanvasDarkLabel"
       >
         <div className="offcanvas-header">
-          <h1 className="uppercase text-[#04C4D9]" id="offcanvasDarkLabel">
+          <h1 className="uppercase text-[#04C4D9]" id="offcanvasDarkLabelL">
             Sistema Sonoro
           </h1>
           <a

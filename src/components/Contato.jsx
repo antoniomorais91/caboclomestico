@@ -35,6 +35,7 @@ export default function Contato() {
                     width={120}
                     height={120}
                     style={{minWidth: "110px"}}
+                    loading="lazy"
                 />
             <div className="flex flex-col items-center justify-center gap-3">
               <h1 className="uppercase text-lg text-[#f29f05]">E-mail</h1>
