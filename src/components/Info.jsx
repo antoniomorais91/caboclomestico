@@ -23,7 +23,7 @@ export default function Info() {
                         className="uppercase hover:text-[#04C4D9]"
                         data-bs-toggle="offcanvas"
                         data-bs-target="#Letras"
-                        aria-controls="letrasMenu"
+                        aria-controls="Menu das Letras"
                     >
                         Letras
                     </a>
@@ -47,7 +47,7 @@ export default function Info() {
                         className="uppercase hover:text-[#04C4D9]"
                         data-bs-toggle="offcanvas"
                         data-bs-target="#FichaTecnica"
-                        aria-controls="fichaMenu"
+                        aria-controls="Acesso Ficha Técnica"
                     >
                         Ficha Técnica
                     </a>

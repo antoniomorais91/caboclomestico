@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 
-import logo from "../../public/caboclo.png"
+import logo from "../../public/caboclo.webp"
 
 export default function Logo() {
     return (

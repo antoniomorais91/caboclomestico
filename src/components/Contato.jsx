@@ -1,6 +1,6 @@
 // @ts-nocheck
 import Image from "next/image";
-import logo from "../../public/caboclo.png"
+import logo from "../../public/caboclo.webp"
 
 export default function Contato() {
   return (

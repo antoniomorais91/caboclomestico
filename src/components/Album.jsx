@@ -1,5 +1,5 @@
 import Image from "next/image";
-import album from '../../public/sistemasonoro.png'
+import album from '../../public/sistemasonoro.webp'
 
 export default function Album() {
     return (

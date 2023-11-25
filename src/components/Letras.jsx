@@ -28,7 +28,7 @@ export default function Letras() {
             <picture>
               <img
                 className="img-fluid mx-auto d-block shadow-2xl shadow-black"
-                src="/sistemasonoro.png"
+                src="/sistemasonoro.webp"
                 alt="Capa do Álbum Sistema Sonoro"
               />
             </picture>
