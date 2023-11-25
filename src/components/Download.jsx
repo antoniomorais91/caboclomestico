@@ -48,7 +48,7 @@ export default function Download() {
                     `}
                 >
                     <a
-                        href="https://drive.google.com/file/d/1_FfCTxvQa8cJkT9j0gXm1DyPFyKvLAcL/view"
+                        href="https://www.caboclomestico.com.br/RELEASE CABOCLO MESTIÇO.pdf"
                         target="_blank"
                         className="hover:text-[#f29f05]"
                     >
